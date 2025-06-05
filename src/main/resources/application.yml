@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: eaisp-users-enterprise-api
+
+server:
+  port: 8084
+
+  servlet:
+    context-path: /eaisp-users-enterprise-api
